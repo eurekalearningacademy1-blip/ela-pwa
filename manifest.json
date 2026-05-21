@@ -1,0 +1,55 @@
+{
+  "background_color": "#ffffff",
+  "description": "index",
+  "dir": "auto",
+  "display": "standalone",
+  "name": "ELAJ",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "ELAJ",
+  "start_url": "/",
+  "theme_color": "#ff006a",
+  "icons": [
+    {
+      "src": "https://elajapia.blogspot.com/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://elajapia.blogspot.com/Add_your_image_url_here",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://elajapia.blogspot.com/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "ela.japia.by.arif",
+  "categories": [
+    "books",
+    "education",
+    "kids"
+  ]
+}
