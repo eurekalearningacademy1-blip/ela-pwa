@@ -7,7 +7,7 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "ELAJ",
-  "start_url": "/",
+  "start_url": "/p/index.html",
   "theme_color": "#ff006a",
   "icons": [
     {
